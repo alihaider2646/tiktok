@@ -1,0 +1,11 @@
+.videoSider {
+  /* z-index: 100; */
+  top: 50%;
+  right: 10px;
+  color: white;
+  position: absolute;
+}
+.videoSider__button {
+  padding: 20px;
+  text-align: center;
+}
